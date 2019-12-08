@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: sumo20-hw.GBR   8/12/2019  8:53:20 am
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBP                Bottom Paste                            
+.GTO                Top Overlay                             
+.GTS                Top Solder                              
+.GM15               Mechanical 15                           
+.GPT                Top Pad Master                          
+.GM1                Mechanical 1                            
+.GBO                Bottom Overlay                          
+.GTP                Top Paste                               
+.GPB                Bottom Pad Master                       
+.GBS                Bottom Solder                           
+.GM13               Mechanical 13                           
+------------------------------------------------------------------------------------------

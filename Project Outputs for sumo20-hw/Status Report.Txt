@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [sumo20-hw.PrjPCB]
+   Generated File[sumo20-hw.GTO]
+   Generated File[sumo20-hw.GTP]
+   Generated File[sumo20-hw.GTS]
+   Generated File[sumo20-hw.GTL]
+   Generated File[sumo20-hw.GBL]
+   Generated File[sumo20-hw.GBS]
+   Generated File[sumo20-hw.GBP]
+   Generated File[sumo20-hw.GBO]
+   Generated File[sumo20-hw.GM1]
+   Generated File[sumo20-hw.GM13]
+   Generated File[sumo20-hw.GM15]
+   Generated File[sumo20-hw.GPT]
+   Generated File[sumo20-hw.GPB]
+   Generated File[sumo20-hw.RUL]
+   Generated File[sumo20-hw.EXTREP]
+   Generated File[sumo20-hw.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 8:53:20 am On 8/12/2019
